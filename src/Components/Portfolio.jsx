@@ -31,10 +31,10 @@ const imageAltText = "Person looking at you";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Web Engineering Course Work",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A portion of my second assignment",
+    url: "https://github.com/Deletus-Fast/Web_Assignment2_3",
   },
   {
     title: "Web Development for Beginners",
